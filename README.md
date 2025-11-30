@@ -316,6 +316,3 @@ Este projeto está sob a licença MIT. Veja o arquivo [LICENSE](LICENSE) para ma
 
 Para reportar bugs ou solicitar features, abra uma [issue](https://github.com/seu-usuario/monitor-saude/issues) no GitHub.
 
-## 👨‍💻 Autor
-
-Desenvolvido com ❤️ usando [Manus](https://manus.im)
